@@ -1,0 +1,150 @@
+Configuration	FW
+STM32CubeMX 	6.13.0
+Date	04/18/2025
+MCU	STM32WB5MMGHx
+
+
+
+PERIPHERALS	MODES	FUNCTIONS	PINS
+ADC1	IN1 Single-ended	ADC1_IN1	PC0
+ADC1	Temperature Sensor Channel	ADC1_TempSens_Input	VP_ADC1_TempSens_Input
+ADC1	Vbat Channel	ADC1_Vbat_Input	VP_ADC1_Vbat_Input
+ADC1	Vrefint Channel	ADC1_Vref_Input	VP_ADC1_Vref_Input
+RCC	Crystal/Ceramic Resonator	RCC_V_OSC_IN	VP_RCC_V_OSC_IN
+RCC	Crystal/Ceramic Resonator	RCC_V_OSC32_IN	VP_RCC_V_OSC32_IN
+RF	Activate RF	RF_VS_RF	VP_RF_VS_RF
+SPI1	Full-Duplex Master	SPI1_MISO	PB4
+SPI1	Full-Duplex Master	SPI1_MOSI	PB5
+SPI1	Full-Duplex Master	SPI1_SCK	PA1
+SPI1	Hardware NSS Output Signal	SPI1_NSS	PA15
+SPI2	Full-Duplex Master	SPI2_MISO	PD3
+SPI2	Full-Duplex Master	SPI2_MOSI	PC3
+SPI2	Full-Duplex Master	SPI2_SCK	PD1
+SPI2	Hardware NSS Input Signal	SPI2_NSS	PB9
+SYS	Trace Asynchronous Sw	SYS_JTMS-SWDIO	PA13
+SYS	Trace Asynchronous Sw	SYS_JTCK-SWCLK	PA14
+SYS	Trace Asynchronous Sw	SYS_JTDO-SWO	PB3
+SYS	SysTick	SYS_VS_Systick	VP_SYS_VS_Systick
+TIM1	PWM Generation CH1	TIM1_CH1	PA8
+USART1	Asynchronous	USART1_RX	PB7
+USART1	Asynchronous	USART1_TX	PB6
+USB	Device (FS)	USB_DM	PA11
+USB	Device (FS)	USB_DP	PA12
+
+
+
+Pin Nb	PINs	FUNCTIONs	LABELs
+2	PA1	SPI1_SCK	BARO_SPI_SCK
+7	PC3	SPI2_MOSI	EPD_SPI_MOSI
+8	PC2	GPIO_Input	STAT_NCP
+9	PC1	GPIO_Output	EPD_NRST
+11	PB9	SPI2_NSS	EPD_SPI_NSS
+12	PC0	ADC1_IN1	BAT_MON
+13	PH3-BOOT0	GPIO_Input	
+18	PB7	USART1_RX	
+19	PB5	SPI1_MOSI	BARO_SPI_MISO
+20	PB4	SPI1_MISO	BARO_SPI_MISO
+21	PB3	SYS_JTDO-SWO	
+22	PC10	GPIO_Input	BT_UP
+23	PC11	GPIO_Input	BT_DN
+25	PA13	SYS_JTMS-SWDIO	
+26	PA14	SYS_JTCK-SWCLK	
+27	PA15	SPI1_NSS	BARO_SPI_NSS
+29	PA12	USB_DP	
+30	PA11	USB_DM	
+34	PD1	SPI2_SCK	EPD_SPI_SCK
+37	PB14	GPIO_Output	EPD_BS
+38	PB15	GPIO_EXTI15	BARO_INT
+39	PB6	USART1_TX	
+41	PB12	GPIO_Input	EDP_BUSY
+42	PE4	GPIO_Output	BAT_MON_EN
+45	PC5	GPIO_Output	LATCH_1_8
+46	PB11	GPIO_Output	LATCH_3_3
+49	PC4	GPIO_Output	BEEP_SHDN
+50	PA8	TIM1_CH1	BEEP_SIGNAL
+70	PD3	SPI2_MISO	EPD_SPI_MISO
+PERIPHERALS	MODES	FUNCTIONS	PINS
+ADC1	IN1 Single-ended	ADC1_IN1	PC0
+ADC1	Temperature Sensor Channel	ADC1_TempSens_Input	VP_ADC1_TempSens_Input
+ADC1	Vbat Channel	ADC1_Vbat_Input	VP_ADC1_Vbat_Input
+ADC1	Vrefint Channel	ADC1_Vref_Input	VP_ADC1_Vref_Input
+RCC	Crystal/Ceramic Resonator	RCC_V_OSC_IN	VP_RCC_V_OSC_IN
+RCC	Crystal/Ceramic Resonator	RCC_V_OSC32_IN	VP_RCC_V_OSC32_IN
+RF	Activate RF	RF_VS_RF	VP_RF_VS_RF
+SPI1	Full-Duplex Master	SPI1_MISO	PB4
+SPI1	Full-Duplex Master	SPI1_MOSI	PB5
+SPI1	Full-Duplex Master	SPI1_SCK	PA1
+SPI1	Hardware NSS Output Signal	SPI1_NSS	PA15
+SPI2	Full-Duplex Master	SPI2_MISO	PD3
+SPI2	Full-Duplex Master	SPI2_MOSI	PC3
+SPI2	Full-Duplex Master	SPI2_SCK	PD1
+SPI2	Hardware NSS Input Signal	SPI2_NSS	PB9
+SYS	Trace Asynchronous Sw	SYS_JTMS-SWDIO	PA13
+SYS	Trace Asynchronous Sw	SYS_JTCK-SWCLK	PA14
+SYS	Trace Asynchronous Sw	SYS_JTDO-SWO	PB3
+SYS	SysTick	SYS_VS_Systick	VP_SYS_VS_Systick
+TIM1	PWM Generation CH1	TIM1_CH1	PA8
+USART1	Asynchronous	USART1_RX	PB7
+USART1	Asynchronous	USART1_TX	PB6
+USB	Device (FS)	USB_DM	PA11
+USB	Device (FS)	USB_DP	PA12
+
+
+
+Pin Nb	PINs	FUNCTIONs	LABELs
+2	PA1	SPI1_SCK	BARO_SPI_SCK
+7	PC3	SPI2_MOSI	EPD_SPI_MOSI
+8	PC2	GPIO_Input	STAT_NCP
+9	PC1	GPIO_Output	EPD_NRST
+11	PB9	SPI2_NSS	EPD_SPI_NSS
+12	PC0	ADC1_IN1	BAT_MON
+13	PH3-BOOT0	GPIO_Input	
+18	PB7	USART1_RX	
+19	PB5	SPI1_MOSI	BARO_SPI_MISO
+20	PB4	SPI1_MISO	BARO_SPI_MISO
+21	PB3	SYS_JTDO-SWO	
+22	PC10	GPIO_Input	BT_UP
+23	PC11	GPIO_Input	BT_DN
+25	PA13	SYS_JTMS-SWDIO	
+26	PA14	SYS_JTCK-SWCLK	
+27	PA15	SPI1_NSS	BARO_SPI_NSS
+29	PA12	USB_DP	
+30	PA11	USB_DM	
+34	PD1	SPI2_SCK	EPD_SPI_SCK
+37	PB14	GPIO_Output	EPD_BS
+38	PB15	GPIO_EXTI15	BARO_INT
+39	PB6	USART1_TX	
+41	PB12	GPIO_Input	EDP_BUSY
+42	PE4	GPIO_Output	BAT_MON_EN
+45	PC5	GPIO_Output	LATCH_1_8
+46	PB11	GPIO_Output	LATCH_3_3
+49	PC4	GPIO_Output	BEEP_SHDN
+50	PA8	TIM1_CH1	BEEP_SIGNAL
+70	PD3	SPI2_MISO	EPD_SPI_MISO
+
+
+
+SOFTWARE PROJECT
+
+Project Settings : 
+Project Name : FW
+Project Folder : D:\dev\bt_alti\FW
+Toolchain / IDE : STM32CubeIDE
+Firmware Package Name and Version : STM32Cube FW_WB V1.21.0
+
+
+Code Generation Settings : 
+STM32Cube MCU packages and embedded software packs : Copy only the necessary library files
+Generate peripheral initialization as a pair of '.c/.h' files per peripheral : Yes
+Backup previously generated files when re-generating : No
+Delete previously generated files when not re-generated : Yes
+Set all free pins as analog (to optimize the power consumption) : Yes
+
+
+Toolchains Settings : 
+Compiler Optimizations : 
+
+
+
+
+

@@ -134,6 +134,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AFXGGEPM
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for btalti\Design Rule Check - btalti.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
