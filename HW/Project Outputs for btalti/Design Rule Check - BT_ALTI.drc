@@ -1,0 +1,89 @@
+Protel Design System Design Rule Check
+PCB File : D:\dev\bt_alti\HW\BT_ALTI.PcbDoc
+Date     : 23/04/2025
+Time     : 00:12:28
+
+WARNING: Design contains shelved or modified (but not repoured) polygons. The result of DRC is not correct. Recommended to restore/repour all polygons and proceed with DRC again
+   Polygon named: NONET_L-01_P-001 In net 3V On SUPPLY
+
+Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R2-1(58.053mm,49.384mm) on TOP And Pad C1-2(58.053mm,50.384mm) on TOP 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R2-1(58.053mm,49.384mm) on TOP And Pad C4-2(58.065mm,47.348mm) on TOP 
+   Violation between Un-Routed Net Constraint: Net NetC43_1 Between Pad C43-1(67.95mm,46mm) on BOTTOM And Pad CON3-21(72.5mm,46mm) on BOTTOM 
+   Violation between Un-Routed Net Constraint: Net NetC45_1 Between Pad C45-1(67.95mm,45mm) on BOTTOM And Pad CON3-23(72.5mm,45mm) on BOTTOM 
+   Violation between Un-Routed Net Constraint: Net VUSB Between Pad CON1-B9(52.25mm,55.85mm) on TOP [Unplated] And Pad CON1-A4(52.55mm,55.85mm) on TOP [Unplated] 
+   Violation between Un-Routed Net Constraint: Net VUSB Between Pad CON1-A9(47.45mm,55.85mm) on TOP [Unplated] And Track (47.7mm,55.323mm)(47.7mm,55.8mm) on TOP 
+Rule Violations :6
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+   Violation between Modified Polygon: Polygon Shelved  (NONET_L-01_P-001) on SUPPLY 
+Rule Violations :1
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=0.6mm) (Preferred=0.2mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.254mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.1mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=10mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.152mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+   Violation between Net Antennae: Track (38.576mm,58.1mm)(38.576mm,58.586mm) on TOP 
+   Violation between Net Antennae: Via (35.4mm,48.8mm) from TOP to BOTTOM 
+   Violation between Net Antennae: Via (37.968mm,46.95mm) from TOP to BOTTOM 
+   Violation between Net Antennae: Via (40.376mm,54.524mm) from TOP to BOTTOM 
+   Violation between Net Antennae: Via (59.2mm,39.5mm) from TOP to BOTTOM 
+   Violation between Net Antennae: Via (60.675mm,49.725mm) from TOP to BOTTOM 
+   Violation between Net Antennae: Via (70.8mm,48.4mm) from TOP to BOTTOM 
+Rule Violations :7
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (Not OnLayer('Flex Top Overlay 1') and not OnLayer('Flex Bottom Overlay 1') and not OnLayer('Bottom Overlay') and not OnLayer ('Top Overlay'))
+   Violation between Board Outline Clearance(Outline Edge): (0mm < 0.4mm) Between Board Edge And Pad CON1-A1(53.35mm,55.85mm) on TOP 
+   Violation between Board Outline Clearance(Outline Edge): (0mm < 0.4mm) Between Board Edge And Pad CON1-A12(46.65mm,55.85mm) on TOP 
+   Violation between Board Outline Clearance(Outline Edge): (0mm < 0.4mm) Between Board Edge And Pad CON1-A4(52.55mm,55.85mm) on TOP 
+   Violation between Board Outline Clearance(Outline Edge): (0mm < 0.4mm) Between Board Edge And Pad CON1-A5(51.25mm,55.85mm) on TOP 
+   Violation between Board Outline Clearance(Outline Edge): (0mm < 0.4mm) Between Board Edge And Pad CON1-A6(50.25mm,55.85mm) on TOP 
+   Violation between Board Outline Clearance(Outline Edge): (0mm < 0.4mm) Between Board Edge And Pad CON1-A7(49.75mm,55.85mm) on TOP 
+   Violation between Board Outline Clearance(Outline Edge): (0mm < 0.4mm) Between Board Edge And Pad CON1-A8(48.75mm,55.85mm) on TOP 
+   Violation between Board Outline Clearance(Outline Edge): (0mm < 0.4mm) Between Board Edge And Pad CON1-A9(47.45mm,55.85mm) on TOP 
+   Violation between Board Outline Clearance(Outline Edge): (0mm < 0.4mm) Between Board Edge And Pad CON1-B1(46.95mm,55.85mm) on TOP 
+   Violation between Board Outline Clearance(Outline Edge): (0mm < 0.4mm) Between Board Edge And Pad CON1-B12(53.05mm,55.85mm) on TOP 
+   Violation between Board Outline Clearance(Outline Edge): (0mm < 0.4mm) Between Board Edge And Pad CON1-B4(47.75mm,55.85mm) on TOP 
+   Violation between Board Outline Clearance(Outline Edge): (0mm < 0.4mm) Between Board Edge And Pad CON1-B5(48.25mm,55.85mm) on TOP 
+   Violation between Board Outline Clearance(Outline Edge): (0mm < 0.4mm) Between Board Edge And Pad CON1-B6(49.25mm,55.85mm) on TOP 
+   Violation between Board Outline Clearance(Outline Edge): (0mm < 0.4mm) Between Board Edge And Pad CON1-B7(50.75mm,55.85mm) on TOP 
+   Violation between Board Outline Clearance(Outline Edge): (0mm < 0.4mm) Between Board Edge And Pad CON1-B8(51.75mm,55.85mm) on TOP 
+   Violation between Board Outline Clearance(Outline Edge): (0mm < 0.4mm) Between Board Edge And Pad CON1-B9(52.25mm,55.85mm) on TOP 
+   Violation between Board Outline Clearance(Outline Edge): (0.353mm < 0.4mm) Between Board Edge And Polygon Region (641 hole(s)) TOP 
+   Violation between Board Outline Clearance(Outline Edge): (0.353mm < 0.4mm) Between Board Edge And Polygon Region (641 hole(s)) TOP 
+Rule Violations :18
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 32
+Waived Violations : 0
+Time Elapsed        : 00:00:02
