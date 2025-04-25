@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VBAT Pin=B?-+
+Removed Pin From Net: NetName=GND Pin=B?--
+Added Component: Designator=B1(EC382704P-T)
+Add component (AddParameter): Name = "Fabricant"; Value = "NGH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "EC382704P-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "EC382704P-T"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBAT Pin=B1-+
+Added Pin To Net: NetName=GND Pin=B1--
+Added Member To Class: ClassName=Alim Member=Component B1 EC382704P-T

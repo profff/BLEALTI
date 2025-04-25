@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=EPD_SPI_MOSI Pin=IC5-3
+Removed Pin From Net: NetName=BEEP_SIGNAL Pin=IC5-66
+Removed Pin From Net: NetName=BEEP_SHDN Pin=IC5-82
+Change Component Description : Designator=T1 Old Description=N-MOS New Description=N-MOS || SOT23 60V 150mA
+Added Pin To Net: NetName=EPD_SPI_MOSI Pin=IC5-7
+Added Pin To Net: NetName=BEEP_SHDN Pin=IC5-49
+Added Pin To Net: NetName=BEEP_SIGNAL Pin=IC5-50

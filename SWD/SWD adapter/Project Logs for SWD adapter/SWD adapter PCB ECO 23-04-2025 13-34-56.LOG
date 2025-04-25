@@ -1,0 +1,18 @@
+Added Component: Designator=J1(87834-2019)
+Add component (AddParameter): Name = "Fabricant"; Value = "molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefSupplier"; Value = "538-87834-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "87834-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "87834-2019"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V Pin=J1-1
+Added Pin To Net: NetName=3V Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=SWD_DIO Pin=J1-7
+Added Pin To Net: NetName=SWD_CLK Pin=J1-9
+Added Pin To Net: NetName=GND Pin=J1-12
+Added Pin To Net: NetName=SWD_SWO Pin=J1-13
+Added Pin To Net: NetName=UC_NRST Pin=J1-15
+Added Pin To Net: NetName=GND Pin=J1-18
+Added Pin To Net: NetName=GND Pin=J1-20
+Added Member To Class: ClassName=SWD adapter Member=Component J1 87834-2019

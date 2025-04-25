@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=BAT_MON Pin=IC5-12
+Removed Pin From Net: NetName=LATCH_1_8 Pin=IC5-45
+Change Component Description : Designator=T1 Old Description=N-MOS New Description=N-MOS || SOT23 60V 150mA
+Added Pin To Net: NetName=BAT_MON Pin=IC5-45
+Added Pin To Net: NetName=LATCH_1_8 Pin=IC5-47

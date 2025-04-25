@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=3V Pin=U1-1
+Removed Pin From Net: NetName=BARO_SPI_SCK Pin=U1-2
+Removed Pin From Net: NetName=GND Pin=U1-3
+Removed Pin From Net: NetName=BARO_SPI_MOSI Pin=U1-4
+Removed Pin From Net: NetName=BARO_SPI_MISO Pin=U1-5
+Removed Pin From Net: NetName=BARO_SPI_NSS Pin=U1-6
+Removed Pin From Net: NetName=BARO_INT Pin=U1-7
+Removed Pin From Net: NetName=GND Pin=U1-8
+Removed Pin From Net: NetName=GND Pin=U1-9
+Removed Pin From Net: NetName=1.8V Pin=U1-10
+Change Comment: Unknown Component : U1
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8

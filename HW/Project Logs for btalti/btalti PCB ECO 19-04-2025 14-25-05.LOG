@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetBP1_1 Pin=BP1-1
+Removed Pin From Net: NetName=NetBP1_1 Pin=BP1-2
+Removed Pin From Net: NetName=VBAT Pin=BP1-4
+Removed Pin From Net: NetName=NetBP2_1 Pin=BP2-1
+Removed Pin From Net: NetName=NetBP2_1 Pin=BP2-2
+Removed Pin From Net: NetName=VBAT Pin=BP2-4
+Removed Pin From Net: NetName=NetBP1_1 Pin=R1-1
+Removed Pin From Net: NetName=NetBP2_1 Pin=R5-1
+Added Pin To Net: NetName=NetBP2_1 Pin=BP1-2
+Added Pin To Net: NetName=NetBP1_1 Pin=BP2-2
+Added Pin To Net: NetName=NetBP2_1 Pin=R1-1
+Added Pin To Net: NetName=NetBP1_1 Pin=R5-1
+Change Net Name : Old Net Name=NetBP1_1 New Net Name=NetBP2_2
+Change Net Name : Old Net Name=NetBP2_1 New Net Name=NetBP1_2

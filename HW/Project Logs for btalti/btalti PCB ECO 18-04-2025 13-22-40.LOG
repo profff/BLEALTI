@@ -1,0 +1,106 @@
+Change Component Description : Designator=T1 Old Description=N-MOS New Description=N-MOS || SOT23 60V 150mA
+Added Component: Designator=C28(C0201)
+Add component (AddParameter): Name = "Fabricant"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GRT033D70J105ME13D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C29(C0201)
+Add component (AddParameter): Name = "Fabricant"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GRT033D70J105ME13D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C30(C0201)
+Add component (AddParameter): Name = "Fabricant"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GRT033D70J105ME13D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C31(C0201)
+Add component (AddParameter): Name = "Fabricant"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GRT033D70J105ME13D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C32(C0201)
+Add component (AddParameter): Name = "Fabricant"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GRT033D70J105ME13D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C33(C0201)
+Add component (AddParameter): Name = "Fabricant"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GRT033D70J105ME13D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=IC7(TQFN-16)
+Add component (AddParameter): Name = "Fabriquant"; Value = "Maxim Integrated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "MAX97220E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "MAX97220E"; VariantName = "[No Variations]"
+Added Component: Designator=PAD1(0.8 / 0.5)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=PAD2(0.8 / 0.5)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R16(R0201)
+Add component (AddParameter): Name = "Fabricant"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "RE0201BRE0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k 0.1%"; VariantName = "[No Variations]"
+Added Component: Designator=R17(R0402 (NM))
+Add component (AddParameter): Name = "Value"; Value = "NM"; VariantName = "[No Variations]"
+Added Component: Designator=R18(R0201)
+Add component (AddParameter): Name = "Fabricant"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "RE0201BRE0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k 0.1%"; VariantName = "[No Variations]"
+Added Component: Designator=R19(R0201)
+Add component (AddParameter): Name = "Fabricant"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "RE0201BRE0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k 0.1%"; VariantName = "[No Variations]"
+Added Component: Designator=R20(R0201)
+Add component (AddParameter): Name = "Fabricant"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "RE0201BRE0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k 0.1%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=VBAT Pin=C28-2
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=VBAT Pin=C29-2
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=VBAT Pin=IC7-1
+Added Pin To Net: NetName=GND Pin=IC7-3
+Added Pin To Net: NetName=GND Pin=IC7-6
+Added Pin To Net: NetName=GND Pin=IC7-7
+Added Pin To Net: NetName=VBAT Pin=IC7-9
+Added Pin To Net: NetName=VBAT Pin=IC7-13
+Added Pin To Net: NetName=GND Pin=IC7-14
+Added Pin To Net: NetName=GND Pin=IC7-EXP
+Added Pin To Net: NetName=BEEP_SHDN Pin=IC5-82
+Added Pin To Net: NetName=BEEP_SHDN Pin=IC7-16
+Added Net: Name=BEEP_SHDN
+Added Pin To Net: NetName=BEEP_SIGNAL Pin=C32-1
+Added Pin To Net: NetName=BEEP_SIGNAL Pin=IC5-66
+Added Net: Name=BEEP_SIGNAL
+Added Pin To Net: NetName=NetC30_2 Pin=C30-2
+Added Pin To Net: NetName=NetC30_2 Pin=IC7-11
+Added Pin To Net: NetName=NetC30_2 Pin=R17-2
+Added Net: Name=NetC30_2
+Added Pin To Net: NetName=NetC31_1 Pin=C31-1
+Added Pin To Net: NetName=NetC31_1 Pin=IC7-4
+Added Net: Name=NetC31_1
+Added Pin To Net: NetName=NetC31_2 Pin=C31-2
+Added Pin To Net: NetName=NetC31_2 Pin=IC7-2
+Added Net: Name=NetC31_2
+Added Pin To Net: NetName=NetC32_2 Pin=C32-2
+Added Pin To Net: NetName=NetC32_2 Pin=R18-2
+Added Net: Name=NetC32_2
+Added Pin To Net: NetName=NetC33_2 Pin=C33-2
+Added Pin To Net: NetName=NetC33_2 Pin=IC7-5
+Added Pin To Net: NetName=NetC33_2 Pin=R17-1
+Added Net: Name=NetC33_2
+Added Pin To Net: NetName=NetIC7_8 Pin=IC7-8
+Added Pin To Net: NetName=NetIC7_8 Pin=R18-1
+Added Pin To Net: NetName=NetIC7_8 Pin=R20-2
+Added Net: Name=NetIC7_8
+Added Pin To Net: NetName=NetIC7_15 Pin=IC7-15
+Added Pin To Net: NetName=NetIC7_15 Pin=R16-1
+Added Pin To Net: NetName=NetIC7_15 Pin=R19-2
+Added Net: Name=NetIC7_15
+Added Pin To Net: NetName=PIEZZO_A Pin=IC7-12
+Added Pin To Net: NetName=PIEZZO_A Pin=PAD1-1
+Added Pin To Net: NetName=PIEZZO_A Pin=R16-2
+Added Net: Name=PIEZZO_A
+Added Pin To Net: NetName=PIEZZO_B Pin=IC7-10
+Added Pin To Net: NetName=PIEZZO_B Pin=PAD2-1
+Added Pin To Net: NetName=PIEZZO_B Pin=R19-1
+Added Pin To Net: NetName=PIEZZO_B Pin=R20-1
+Added Net: Name=PIEZZO_B
+Added Class: Name=beep

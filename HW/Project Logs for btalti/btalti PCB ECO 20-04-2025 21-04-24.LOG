@@ -1,0 +1,13 @@
+Added Component: Designator=U1(BM585)
+Add component (AddParameter): Name = "Fabriquant"; Value = "Bosch Sensortec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "BMP585"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "BMP585"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BARO_SPI_SCK Pin=U1-1
+Added Pin To Net: NetName=BARO_SPI_MOSI Pin=U1-2
+Added Pin To Net: NetName=BARO_SPI_MISO Pin=U1-3
+Added Pin To Net: NetName=3V Pin=U1-4
+Added Pin To Net: NetName=BARO_INT Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=BARO_SPI_NSS Pin=U1-7
+Added Pin To Net: NetName=1.8V Pin=U1-8
+Added Member To Class: ClassName=Micro Member=Component U1 BMP585

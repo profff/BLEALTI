@@ -1,0 +1,14 @@
+Replace Part BEEP +1 hole_0.8/0.5 in D:\dev\bt_alti\HW\beep.SchDoc with hole_0.8/0.5 from Wirepad.SchLib
+Replace Part BEEP -1 hole_0.8/0.5 in D:\dev\bt_alti\HW\beep.SchDoc with hole_0.8/0.5 from Wirepad.SchLib
+Replace Part C29 1uF (0402) in D:\dev\bt_alti\HW\beep.SchDoc with 1uF (0402) from Cap.SchLib
+Replace Part C30 1uF (0402) in D:\dev\bt_alti\HW\beep.SchDoc with 1uF (0402) from Cap.SchLib
+Replace Part C31 1uF (0402) in D:\dev\bt_alti\HW\beep.SchDoc with 1uF (0402) from Cap.SchLib
+Replace Part C32 1uF (0402) in D:\dev\bt_alti\HW\beep.SchDoc with 1uF (0402) from Cap.SchLib
+Replace Part C33 1uF (0402) in D:\dev\bt_alti\HW\beep.SchDoc with 1uF (0402) from Cap.SchLib
+Replace Part C34 1uF (0402) in D:\dev\bt_alti\HW\beep.SchDoc with 1uF (0402) from Cap.SchLib
+Replace Part IC7 MAX97220E in D:\dev\bt_alti\HW\beep.SchDoc with MAX97220E from Ampli.SchLib
+Replace Part R17 10k (0402) in D:\dev\bt_alti\HW\beep.SchDoc with 10k (0402) from Res.SchLib
+Replace Part R18 NM (0402) in D:\dev\bt_alti\HW\beep.SchDoc with NM (0402) from Res.SchLib
+Replace Part R19 10k (0402) in D:\dev\bt_alti\HW\beep.SchDoc with 10k (0402) from Res.SchLib
+Replace Part R20 10k (0402) in D:\dev\bt_alti\HW\beep.SchDoc with 10k (0402) from Res.SchLib
+Replace Part R21 10k (0402) in D:\dev\bt_alti\HW\beep.SchDoc with 10k (0402) from Res.SchLib

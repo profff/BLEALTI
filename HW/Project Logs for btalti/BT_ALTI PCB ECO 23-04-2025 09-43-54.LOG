@@ -1,0 +1,71 @@
+Change Component DesignItemId : Designator=C1 Old DesignItemId=1uF (0402) New DesignItemId=1uF (0402) AEC-Q200
+Change Component DesignItemId : Designator=C2 Old DesignItemId=1uF (0402) New DesignItemId=1uF (0402) AEC-Q200
+Change Component DesignItemId : Designator=C3 Old DesignItemId=1uF (0402) New DesignItemId=1uF (0402) AEC-Q200
+Change Component DesignItemId : Designator=C4 Old DesignItemId=1uF (0402) New DesignItemId=1uF (0402) AEC-Q200
+Change Component DesignItemId : Designator=C5 Old DesignItemId=1uF (0402) New DesignItemId=1uF (0402) AEC-Q200
+Change Component DesignItemId : Designator=C6 Old DesignItemId=1uF (0402) New DesignItemId=1uF (0402) AEC-Q200
+Change Component DesignItemId : Designator=C7 Old DesignItemId=1uF (0402) New DesignItemId=1uF (0402) AEC-Q200
+Change Component DesignItemId : Designator=C8 Old DesignItemId=1uF (0402) New DesignItemId=1uF (0402) AEC-Q200
+Change Component DesignItemId : Designator=C9 Old DesignItemId=100nF (0402) New DesignItemId=100nF (0402) AEC-Q200
+Change Component Comment : Designator=C1 Old Comment=1uF (0402) New Comment=1uF (0402) AEC-Q200
+Change Component Comment : Designator=C2 Old Comment=1uF (0402) New Comment=1uF (0402) AEC-Q200
+Change Component Comment : Designator=C3 Old Comment=1uF (0402) New Comment=1uF (0402) AEC-Q200
+Change Component Comment : Designator=C4 Old Comment=1uF (0402) New Comment=1uF (0402) AEC-Q200
+Change Component Comment : Designator=C5 Old Comment=1uF (0402) New Comment=1uF (0402) AEC-Q200
+Change Component Comment : Designator=C6 Old Comment=1uF (0402) New Comment=1uF (0402) AEC-Q200
+Change Component Comment : Designator=C7 Old Comment=1uF (0402) New Comment=1uF (0402) AEC-Q200
+Change Component Comment : Designator=C8 Old Comment=1uF (0402) New Comment=1uF (0402) AEC-Q200
+Change Component Comment : Designator=C9 Old Comment=100nF (0402) New Comment=100nF (0402) AEC-Q200
+Change Component Description : Designator=IC3 Old Description=1.8V New Description=1.8V || SOT23 || 100mA || IN : 2.3V to 36V
+Change Component Description : Designator=IC2 Old Description=3V New Description=3V || SOT23 || 100mA || IN : 2.3V to 36V
+Change Component Description : Designator=T1 Old Description=N-MOS New Description=N-MOS || SOT23 60V 150mA
+Change Component Description : Designator=T2 Old Description=N-MOS New Description=N-MOS || SOT23 60V 150mA
+Change Component Description : Designator=C9 Old Description=X7R 0402 20% 50V New Description=X7R 0402 10% 50V AEC-Q200
+Change Component Description : Designator=C1 Old Description=X7S 10% 0402 16V New Description=X7S 10% 0402 10V AEC-Q200
+Change Component Description : Designator=C2 Old Description=X7S 10% 0402 16V New Description=X7S 10% 0402 10V AEC-Q200
+Change Component Description : Designator=C3 Old Description=X7S 10% 0402 16V New Description=X7S 10% 0402 10V AEC-Q200
+Change Component Description : Designator=C4 Old Description=X7S 10% 0402 16V New Description=X7S 10% 0402 10V AEC-Q200
+Change Component Description : Designator=C5 Old Description=X7S 10% 0402 16V New Description=X7S 10% 0402 10V AEC-Q200
+Change Component Description : Designator=C6 Old Description=X7S 10% 0402 16V New Description=X7S 10% 0402 10V AEC-Q200
+Change Component Description : Designator=C7 Old Description=X7S 10% 0402 16V New Description=X7S 10% 0402 10V AEC-Q200
+Change Component Description : Designator=C8 Old Description=X7S 10% 0402 16V New Description=X7S 10% 0402 10V AEC-Q200
+Change component parameters: Designator = "C1" ("C1"); Footprint = "C0402"; UniqueID = "\LPKWHJYE" ("\LPKWHJYE")
+Change component parameters (AddParameter): Name = "Fabricant"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Référence"; Value = "GCM155C71A105KE38D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "C0402"; UniqueID = "\AWSOFAMU" ("\AWSOFAMU")
+Change component parameters (AddParameter): Name = "Fabricant"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Référence"; Value = "GCM155C71A105KE38D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "C0402"; UniqueID = "\QUHVPJKU" ("\QUHVPJKU")
+Change component parameters (AddParameter): Name = "Fabricant"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Référence"; Value = "GCM155C71A105KE38D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "C0402"; UniqueID = "\HRYCQMVG" ("\HRYCQMVG")
+Change component parameters (AddParameter): Name = "Fabricant"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Référence"; Value = "GCM155C71A105KE38D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "C0402"; UniqueID = "\QOZVJANS" ("\QOZVJANS")
+Change component parameters (AddParameter): Name = "Fabricant"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Référence"; Value = "GCM155C71A105KE38D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "C0402"; UniqueID = "\YHJUEFZF" ("\YHJUEFZF")
+Change component parameters (AddParameter): Name = "Fabricant"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Référence"; Value = "GCM155C71A105KE38D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "C0402"; UniqueID = "\DTMKYFSA" ("\DTMKYFSA")
+Change component parameters (AddParameter): Name = "Fabricant"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Référence"; Value = "GCM155C71A105KE38D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "C0402"; UniqueID = "\CGMIHOOV" ("\CGMIHOOV")
+Change component parameters (AddParameter): Name = "Fabricant"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Référence"; Value = "GCM155C71A105KE38D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "C0402"; UniqueID = "\HBJYXBLJ" ("\HBJYXBLJ")
+Change component parameters (AddParameter): Name = "Fabricant"; Value = "MURATA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Référence"; Value = "GCM155R71H104KE02J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1" ("U1"); Footprint = "BM585"; UniqueID = "\BKACDWPE" ("\BKACDWPE")
+Change component parameters (AddParameter): Name = "Fabricant"; Value = "Bosch Sensortec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Référence"; Value = "BMP585"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "BMP585"; VariantName = "[No Variations]"

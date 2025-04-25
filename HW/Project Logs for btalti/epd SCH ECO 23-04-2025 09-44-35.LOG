@@ -1,0 +1,18 @@
+Replace Part C37 1uF (0402) AEC-Q200 HT in D:\dev\bt_alti\HW\epd.SchDoc with 1uF (0402) AEC-Q200 HT from Cap.SchLib
+Replace Part C38 1uF (0402) AEC-Q200 HT in D:\dev\bt_alti\HW\epd.SchDoc with 1uF (0402) AEC-Q200 HT from Cap.SchLib
+Replace Part C39 1uF (0402) AEC-Q200 HT in D:\dev\bt_alti\HW\epd.SchDoc with 1uF (0402) AEC-Q200 HT from Cap.SchLib
+Replace Part C40 1uF (0402) AEC-Q200 HT in D:\dev\bt_alti\HW\epd.SchDoc with 1uF (0402) AEC-Q200 HT from Cap.SchLib
+Replace Part C41 1uF (0402) AEC-Q200 HT in D:\dev\bt_alti\HW\epd.SchDoc with 1uF (0402) AEC-Q200 HT from Cap.SchLib
+Replace Part C42 4.7uF (0402) AEC-Q200 in D:\dev\bt_alti\HW\epd.SchDoc with 4.7uF (0402) AEC-Q200 from Cap.SchLib
+Replace Part C43 1uF (0402) AEC-Q200 HT in D:\dev\bt_alti\HW\epd.SchDoc with 1uF (0402) AEC-Q200 HT from Cap.SchLib
+Replace Part C44 1uF (0402) AEC-Q200 HT in D:\dev\bt_alti\HW\epd.SchDoc with 1uF (0402) AEC-Q200 HT from Cap.SchLib
+Replace Part C45 1uF (0402) AEC-Q200 HT in D:\dev\bt_alti\HW\epd.SchDoc with 1uF (0402) AEC-Q200 HT from Cap.SchLib
+Replace Part C46 1uF (0402) AEC-Q200 HT in D:\dev\bt_alti\HW\epd.SchDoc with 1uF (0402) AEC-Q200 HT from Cap.SchLib
+Replace Part CON3 52435-2471 in D:\dev\bt_alti\HW\epd.SchDoc with 52435-2471 from ConnecteurAutre.SchLib
+Replace Part D3 Schottky (0402) AEC-Q101 in D:\dev\bt_alti\HW\epd.SchDoc with Schottky (0402) AEC-Q101 from Diode.SchLib
+Replace Part D4 Schottky (0402) AEC-Q101 in D:\dev\bt_alti\HW\epd.SchDoc with Schottky (0402) AEC-Q101 from Diode.SchLib
+Replace Part D5 Schottky (0402) AEC-Q101 in D:\dev\bt_alti\HW\epd.SchDoc with Schottky (0402) AEC-Q101 from Diode.SchLib
+Replace Part L2 4.7uH (0603) in D:\dev\bt_alti\HW\epd.SchDoc with 4.7uH (0603) from Inductance.SchLib
+Replace Part R22 0R (0402) AEC-Q200 in D:\dev\bt_alti\HW\epd.SchDoc with 0R (0402) AEC-Q200 from Res.SchLib
+Replace Part R23 2R2 (0402) in D:\dev\bt_alti\HW\epd.SchDoc with 2R2 (0402) from Res.SchLib
+Replace Part T2 BS170F in D:\dev\bt_alti\HW\epd.SchDoc with BS170F from Transistor.SchLib

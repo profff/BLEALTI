@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=STAT_NCP Pin=IC5-8
+Removed Pin From Net: NetName=BARO_INT Pin=IC5-38
+Added Pin To Net: NetName=BARO_INT Pin=IC5-8
+Added Pin To Net: NetName=STAT_NCP Pin=IC5-38

@@ -1,0 +1,32 @@
+Replace Part B1 EC382704P-T in D:\dev\bt_alti\HW\Alim.SchDoc with EC382704P-T from Battery.SchLib
+Replace Part BP1 B3FS-1012P in D:\dev\bt_alti\HW\Alim.SchDoc with B3FS-1012P from switch.SchLib
+Replace Part BP2 B3FS-1012P in D:\dev\bt_alti\HW\Alim.SchDoc with B3FS-1012P from switch.SchLib
+Replace Part C1 1uF (0402) AEC-Q200 in D:\dev\bt_alti\HW\Alim.SchDoc with 1uF (0402) AEC-Q200 from Cap.SchLib
+Replace Part C2 1uF (0402) AEC-Q200 in D:\dev\bt_alti\HW\Alim.SchDoc with 1uF (0402) AEC-Q200 from Cap.SchLib
+Replace Part C3 1uF (0402) AEC-Q200 in D:\dev\bt_alti\HW\Alim.SchDoc with 1uF (0402) AEC-Q200 from Cap.SchLib
+Replace Part C4 1uF (0402) AEC-Q200 in D:\dev\bt_alti\HW\Alim.SchDoc with 1uF (0402) AEC-Q200 from Cap.SchLib
+Replace Part C5 1uF (0402) AEC-Q200 in D:\dev\bt_alti\HW\Alim.SchDoc with 1uF (0402) AEC-Q200 from Cap.SchLib
+Replace Part C6 1uF (0402) AEC-Q200 in D:\dev\bt_alti\HW\Alim.SchDoc with 1uF (0402) AEC-Q200 from Cap.SchLib
+Replace Part C7 1uF (0402) AEC-Q200 in D:\dev\bt_alti\HW\Alim.SchDoc with 1uF (0402) AEC-Q200 from Cap.SchLib
+Replace Part C8 1uF (0402) AEC-Q200 in D:\dev\bt_alti\HW\Alim.SchDoc with 1uF (0402) AEC-Q200 from Cap.SchLib
+Replace Part C9 100nF (0402) AEC-Q200 in D:\dev\bt_alti\HW\Alim.SchDoc with 100nF (0402) AEC-Q200 from Cap.SchLib
+Replace Part CON1 USB4520-03-1-A in D:\dev\bt_alti\HW\Alim.SchDoc with USB4520-03-1-A from ConnecteurAutre.SchLib
+Replace Part D1 BAV170MYL in D:\dev\bt_alti\HW\Alim.SchDoc with BAV170MYL from Diode.SchLib
+Replace Part D2 BAV170MYL in D:\dev\bt_alti\HW\Alim.SchDoc with BAV170MYL from Diode.SchLib
+Replace Part IC1 MCP73831 in D:\dev\bt_alti\HW\Alim.SchDoc with MCP73831 from Charger.SchLib
+Replace Part IC2 MIC5233_3V in D:\dev\bt_alti\HW\Alim.SchDoc with MIC5233_3V from Regul.SchLib
+Replace Part IC3 MIC5233_1.8V in D:\dev\bt_alti\HW\Alim.SchDoc with MIC5233_1.8V from Regul.SchLib
+Replace Part IC4 74AUP1G80 in D:\dev\bt_alti\HW\Alim.SchDoc with 74AUP1G80 from switch.SchLib
+Replace Part R1 1k (0402) in D:\dev\bt_alti\HW\Alim.SchDoc with 1k (0402) from Res.SchLib
+Replace Part R2 10k (0402) in D:\dev\bt_alti\HW\Alim.SchDoc with 10k (0402) from Res.SchLib
+Replace Part R3 1M (0402) in D:\dev\bt_alti\HW\Alim.SchDoc with 1M (0402) from Res.SchLib
+Replace Part R4 47k (0402) in D:\dev\bt_alti\HW\Alim.SchDoc with 47k (0402) from Res.SchLib
+Replace Part R5 1k (0402) in D:\dev\bt_alti\HW\Alim.SchDoc with 1k (0402) from Res.SchLib
+Replace Part R6 1k (0402) in D:\dev\bt_alti\HW\Alim.SchDoc with 1k (0402) from Res.SchLib
+Replace Part R7 10k (0402) in D:\dev\bt_alti\HW\Alim.SchDoc with 10k (0402) from Res.SchLib
+Replace Part R8 5k1 (0402) AEC-Q200 in D:\dev\bt_alti\HW\Alim.SchDoc with 5k1 (0402) AEC-Q200 from Res.SchLib
+Replace Part R9 5k1 (0402) AEC-Q200 in D:\dev\bt_alti\HW\Alim.SchDoc with 5k1 (0402) AEC-Q200 from Res.SchLib
+Replace Part R10 1M (0402) in D:\dev\bt_alti\HW\Alim.SchDoc with 1M (0402) from Res.SchLib
+Replace Part R11 100k (0402) in D:\dev\bt_alti\HW\Alim.SchDoc with 100k (0402) from Res.SchLib
+Replace Part R12 100k (0402) in D:\dev\bt_alti\HW\Alim.SchDoc with 100k (0402) from Res.SchLib
+Replace Part T1 BS170F in D:\dev\bt_alti\HW\Alim.SchDoc with BS170F from Transistor.SchLib

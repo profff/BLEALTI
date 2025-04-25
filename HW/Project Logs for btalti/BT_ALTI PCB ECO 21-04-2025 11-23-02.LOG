@@ -1,0 +1,408 @@
+Added Component: Designator=ANT1(SAMTEC_SMA-J-P-H-ST-EM1)
+Add component (AddParameter): Name = "Fabricant"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "SMA-J-P-H-ST-EM1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "SMA-J-P-H-ST-EM1"; VariantName = "[No Variations]"
+Added Component: Designator=BATT+1(SMD 4x4)
+Added Component: Designator=BATT-1(SMD 4x4)
+Added Component: Designator=BEEP +1(0.8 / 0.5)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=BEEP -1(0.8 / 0.5)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=BP1(B3FS)
+Add component (AddParameter): Name = "Fabricant"; Value = "Omron"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "B3FS-1012P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "B3FS-1012P"; VariantName = "[No Variations]"
+Added Component: Designator=BP2(B3FS)
+Add component (AddParameter): Name = "Fabricant"; Value = "Omron"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "B3FS-1012P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "B3FS-1012P"; VariantName = "[No Variations]"
+Added Component: Designator=C1(C0402)
+Add component (AddParameter): Name = "Fabricant"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GRM155C71C105KE11D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C0402)
+Add component (AddParameter): Name = "Fabricant"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GRM155C71C105KE11D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C0402)
+Add component (AddParameter): Name = "Fabricant"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GRM155C71C105KE11D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(C0402)
+Add component (AddParameter): Name = "Fabricant"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GRM155C71C105KE11D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(C0402)
+Add component (AddParameter): Name = "Fabricant"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GRM155C71C105KE11D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(C0402)
+Add component (AddParameter): Name = "Fabricant"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GRM155C71C105KE11D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C7(C0402)
+Add component (AddParameter): Name = "Fabricant"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GRM155C71C105KE11D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C8(C0402)
+Add component (AddParameter): Name = "Fabricant"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GRM155C71C105KE11D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C9(C0402)
+Add component (AddParameter): Name = "Fabricant"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "C1005X7R1H104M050BB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C10(C0402)
+Add component (AddParameter): Name = "Fabricant"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GRT155D70J475ME13J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Added Component: Designator=C11(C0402)
+Add component (AddParameter): Name = "Fabricant"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GCM155R71H104KE02J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C12(C0402)
+Add component (AddParameter): Name = "Fabricant"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GRM155C71C105KE11D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C13(C0402)
+Add component (AddParameter): Name = "Fabricant"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GCM155R71H104KE02J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C14(C0402)
+Add component (AddParameter): Name = "Fabricant"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GRT155R71H103KE01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C15(C0402)
+Add component (AddParameter): Name = "Fabricant"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GCM155R71H104KE02J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C16(C0402)
+Add component (AddParameter): Name = "Fabricant"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GCM155R71H104KE02J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C17(C0402)
+Add component (AddParameter): Name = "Fabricant"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GRT155D70J475ME13J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Added Component: Designator=C18(C0402)
+Add component (AddParameter): Name = "Fabricant"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GRT155D70J475ME13J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Added Component: Designator=C19(C0402)
+Add component (AddParameter): Name = "Fabricant"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GCM155R71H104KE02J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C20(C0402)
+Add component (AddParameter): Name = "Fabricant"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GCM1555C1H101JA16D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C21(C0402)
+Add component (AddParameter): Name = "Fabricant"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GCM155R71H104KE02J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C22(C0402)
+Add component (AddParameter): Name = "Fabricant"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GCM155R71H104KE02J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C23(C0402 (NM))
+Add component (AddParameter): Name = "Value"; Value = "NM"; VariantName = "[No Variations]"
+Added Component: Designator=C24(C0402 (NM))
+Add component (AddParameter): Name = "Value"; Value = "NM"; VariantName = "[No Variations]"
+Added Component: Designator=C25(C0402)
+Add component (AddParameter): Name = "Fabricant"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GCM1555C1H100GA16D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10pF"; VariantName = "[No Variations]"
+Added Component: Designator=C26(C0402)
+Add component (AddParameter): Name = "Fabricant"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GCM1555C1H100GA16D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10pF"; VariantName = "[No Variations]"
+Added Component: Designator=C27(C0402)
+Add component (AddParameter): Name = "Fabricant"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GCM1555C1H5R1CA16D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.1pF"; VariantName = "[No Variations]"
+Added Component: Designator=C28(C0402)
+Add component (AddParameter): Name = "Fabricant"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GCM1555C1H5R1CA16D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.1pF"; VariantName = "[No Variations]"
+Added Component: Designator=C29(C0402)
+Add component (AddParameter): Name = "Fabricant"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GRM155C71C105KE11D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C30(C0402)
+Add component (AddParameter): Name = "Fabricant"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GRM155C71C105KE11D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C31(C0402)
+Add component (AddParameter): Name = "Fabricant"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GRM155C71C105KE11D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C32(C0402)
+Add component (AddParameter): Name = "Fabricant"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GRM155C71C105KE11D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C33(C0402)
+Add component (AddParameter): Name = "Fabricant"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GRM155C71C105KE11D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C34(C0402)
+Add component (AddParameter): Name = "Fabricant"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GRM155C71C105KE11D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C35(C0402)
+Add component (AddParameter): Name = "Fabricant"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GCM155R71H104KE02J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C36(C0402)
+Add component (AddParameter): Name = "Fabricant"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GCM155R71H104KE02J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C37(C0402)
+Add component (AddParameter): Name = "Fabricant"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GRT155C81E105KE13D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C38(C0402)
+Add component (AddParameter): Name = "Fabricant"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GRT155C81E105KE13D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C39(C0402)
+Add component (AddParameter): Name = "Fabricant"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GRT155C81E105KE13D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C40(C0402)
+Add component (AddParameter): Name = "Fabricant"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GRT155C81E105KE13D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C41(C0402)
+Add component (AddParameter): Name = "Fabricant"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GRT155C81E105KE13D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found C0402
+Add Component: Footprint Not Found C0402
+Add Component: Footprint Not Found C0402
+Add Component: Footprint Not Found C0402
+Add Component: Footprint Not Found C0402
+Add Component: Footprint Not Found USB4520-03-1-A
+Add Component: Footprint Not Found 54548-0871
+Add Component: Footprint Not Found 52435-2471
+Add Component: Footprint Not Found DFN1006-3
+Add Component: Footprint Not Found DFN1006-3
+Add Component: Footprint Not Found SOD-882 (0402)
+Add Component: Footprint Not Found SOD-882 (0402)
+Add Component: Footprint Not Found SOD-882 (0402)
+Add Component: Footprint Not Found MLPF-WB-01E3
+Add Component: Footprint Not Found SOT23-5
+Add Component: Footprint Not Found SOT23-5
+Add Component: Footprint Not Found SOT23-5
+Add Component: Footprint Not Found TSSOP5
+Add Component: Footprint Not Found SOT23-6
+Add Component: Footprint Not Found UFQFPN48
+Add Component: Footprint Not Found TQFN-16
+Add Component: Footprint Not Found 2.5x2 (2512)
+Add Component: Footprint Not Found S0603
+Add Component: Footprint Not Found 2.0x1.6 - ECS-320-8-47Q
+Add Component: Footprint Not Found 3.2x1.5
+Add Component: Footprint Not Found R0402
+Add Component: Footprint Not Found R0402
+Add Component: Footprint Not Found R0402
+Add Component: Footprint Not Found R0402
+Add Component: Footprint Not Found R0402
+Add Component: Footprint Not Found R0402
+Add Component: Footprint Not Found R0402
+Add Component: Footprint Not Found R0402
+Add Component: Footprint Not Found R0402
+Add Component: Footprint Not Found R0402
+Add Component: Footprint Not Found R0402
+Add Component: Footprint Not Found R0402
+Add Component: Footprint Not Found R0402 (NM)
+Add Component: Footprint Not Found R0402
+Add Component: Footprint Not Found R0402
+Add Component: Footprint Not Found R0402
+Add Component: Footprint Not Found R0402
+Add Component: Footprint Not Found R0402 (NM)
+Add Component: Footprint Not Found R0402
+Add Component: Footprint Not Found R0402
+Add Component: Footprint Not Found R0402
+Add Component: Footprint Not Found R0402
+Add Component: Footprint Not Found R0402
+Add Component: Footprint Not Found 0402 (FERRITE)
+Add Component: Footprint Not Found SOT-23-3
+Add Component: Footprint Not Found SOT-23-3
+Add Component: Footprint Not Found BM585
+Added Pin To Net: NetName=1.8V Pin=C8-1
+Added Pin To Net: NetName=1.8V Pin=C35-2
+Added Net: Name=1.8V
+Added Net: Name=3.3_EN
+Added Pin To Net: NetName=3V Pin=C6-1
+Added Pin To Net: NetName=3V Pin=C10-2
+Added Pin To Net: NetName=3V Pin=C11-1
+Added Pin To Net: NetName=3V Pin=C13-1
+Added Pin To Net: NetName=3V Pin=C15-1
+Added Pin To Net: NetName=3V Pin=C16-1
+Added Pin To Net: NetName=3V Pin=C17-2
+Added Pin To Net: NetName=3V Pin=C19-1
+Added Pin To Net: NetName=3V Pin=C20-1
+Added Pin To Net: NetName=3V Pin=C21-1
+Added Pin To Net: NetName=3V Pin=C36-2
+Added Pin To Net: NetName=3V Pin=C38-1
+Added Net: Name=3V
+Added Net: Name=BARO_INT
+Added Net: Name=BARO_NSS
+Added Pin To Net: NetName=BAT_MON_EN Pin=C9-1
+Added Net: Name=BAT_MON_EN
+Added Net: Name=BAT_MON
+Added Net: Name=BEEP_SHDN
+Added Pin To Net: NetName=BEEP_SIGNAL Pin=C33-1
+Added Net: Name=BEEP_SIGNAL
+Added Pin To Net: NetName=BT_DN Pin=C4-1
+Added Net: Name=BT_DN
+Added Pin To Net: NetName=BT_UP Pin=C1-1
+Added Net: Name=BT_UP
+Added Net: Name=D_N
+Added Net: Name=D_P
+Added Net: Name=EPD_BUSY
+Added Net: Name=EPD_DC
+Added Net: Name=EPD_NRST
+Added Net: Name=EPD_NSS
+Added Net: Name=GDR
+Added Pin To Net: NetName=GND Pin=ANT1-2
+Added Pin To Net: NetName=GND Pin=ANT1-3
+Added Pin To Net: NetName=GND Pin=ANT1-4
+Added Pin To Net: NetName=GND Pin=ANT1-5
+Added Pin To Net: NetName=GND Pin=BATT-1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C24-2
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C26-2
+Added Pin To Net: NetName=GND Pin=C27-2
+Added Pin To Net: NetName=GND Pin=C28-2
+Added Pin To Net: NetName=GND Pin=C29-2
+Added Pin To Net: NetName=GND Pin=C30-2
+Added Pin To Net: NetName=GND Pin=C31-2
+Added Pin To Net: NetName=GND Pin=C34-2
+Added Pin To Net: NetName=GND Pin=C35-1
+Added Pin To Net: NetName=GND Pin=C36-1
+Added Pin To Net: NetName=GND Pin=C37-1
+Added Pin To Net: NetName=GND Pin=C38-2
+Added Pin To Net: NetName=GND Pin=C39-2
+Added Pin To Net: NetName=GND Pin=C40-2
+Added Pin To Net: NetName=GND Pin=C41-2
+Added Net: Name=GND
+Added Net: Name=LATCH_1_8
+Added Net: Name=LATCH_3_3
+Added Pin To Net: NetName=NetANT1_1 Pin=ANT1-1
+Added Pin To Net: NetName=NetANT1_1 Pin=C24-1
+Added Net: Name=NetANT1_1
+Added Pin To Net: NetName=NetBP1_1 Pin=BP1-1
+Added Net: Name=NetBP1_1
+Added Pin To Net: NetName=NetBP2_1 Pin=BP2-1
+Added Net: Name=NetBP2_1
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=C14-1
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetC18_2 Pin=C18-2
+Added Net: Name=NetC18_2
+Added Pin To Net: NetName=NetC23_1 Pin=C23-1
+Added Net: Name=NetC23_1
+Added Pin To Net: NetName=NetC25_1 Pin=C25-1
+Added Net: Name=NetC25_1
+Added Pin To Net: NetName=NetC26_1 Pin=C26-1
+Added Net: Name=NetC26_1
+Added Pin To Net: NetName=NetC27_1 Pin=C27-1
+Added Net: Name=NetC27_1
+Added Pin To Net: NetName=NetC28_1 Pin=C28-1
+Added Net: Name=NetC28_1
+Added Pin To Net: NetName=NetC31_1 Pin=C31-1
+Added Net: Name=NetC31_1
+Added Pin To Net: NetName=NetC32_1 Pin=C32-1
+Added Net: Name=NetC32_1
+Added Pin To Net: NetName=NetC32_2 Pin=C32-2
+Added Net: Name=NetC32_2
+Added Pin To Net: NetName=NetC33_2 Pin=C33-2
+Added Net: Name=NetC33_2
+Added Pin To Net: NetName=NetC34_1 Pin=C34-1
+Added Net: Name=NetC34_1
+Added Pin To Net: NetName=NetC37_2 Pin=C37-2
+Added Net: Name=NetC37_2
+Added Pin To Net: NetName=NetC39_1 Pin=C39-1
+Added Net: Name=NetC39_1
+Added Pin To Net: NetName=NetC40_1 Pin=C40-1
+Added Net: Name=NetC40_1
+Added Pin To Net: NetName=NetC41_1 Pin=C41-1
+Added Net: Name=NetC41_1
+Added Net: Name=NetC42_1
+Added Net: Name=NetC43_1
+Added Net: Name=NetC44_1
+Added Net: Name=NetC45_1
+Added Net: Name=NetC46_1
+Added Net: Name=NetC46_2
+Added Net: Name=NetCON1_A5
+Added Net: Name=NetCON1_B5
+Added Net: Name=NetD2_2
+Added Net: Name=NetD3_A
+Added Net: Name=NetF1_A1
+Added Net: Name=NetF1_A3
+Added Net: Name=NetIC1_5
+Added Net: Name=NetIC3_3
+Added Net: Name=NetIC6_4
+Added Net: Name=NetIC6_33
+Added Net: Name=NetIC7_8
+Added Net: Name=NetIC7_15
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=PIEZZO_A Pin=BEEP -1-1
+Added Net: Name=PIEZZO_A
+Added Pin To Net: NetName=PIEZZO_B Pin=BEEP +1-1
+Added Net: Name=PIEZZO_B
+Added Net: Name=RSENS
+Added Net: Name=SPI_MISO
+Added Net: Name=SPI_MOSI
+Added Net: Name=SPI_SCK
+Added Net: Name=STAT_NCP
+Added Net: Name=SWD_CLK
+Added Net: Name=SWD_DIO
+Added Net: Name=SWD_SWO
+Added Net: Name=UART_TX
+Added Pin To Net: NetName=UC_NRST Pin=C22-1
+Added Net: Name=UC_NRST
+Added Net: Name=USBD_N
+Added Net: Name=USBD_P
+Added Pin To Net: NetName=VBAT Pin=BATT+1-1
+Added Pin To Net: NetName=VBAT Pin=BP1-3
+Added Pin To Net: NetName=VBAT Pin=BP2-3
+Added Pin To Net: NetName=VBAT Pin=C3-1
+Added Pin To Net: NetName=VBAT Pin=C5-1
+Added Pin To Net: NetName=VBAT Pin=C7-1
+Added Pin To Net: NetName=VBAT Pin=C29-1
+Added Pin To Net: NetName=VBAT Pin=C30-1
+Added Net: Name=VBAT
+Added Pin To Net: NetName=VUSB Pin=C2-1
+Added Net: Name=VUSB
+Added Class: Name=Alim
+Added Class: Name=baro
+Added Class: Name=beep
+Added Class: Name=epd
+Added Class: Name=Micro
+Added Differential Pair: Name=D
+Added Differential Pair: Name=USBD

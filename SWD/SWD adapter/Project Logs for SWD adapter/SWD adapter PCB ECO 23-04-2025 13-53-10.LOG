@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=STM NewDesignator=J1
+Change Component Designator: OldDesignator=UART(GND,NC,TX,3V) NewDesignator=CON2
+Change Component Description : Designator=J1 Old Description=Embase PCB, 1.27mm,20 contacts, 2 rangées, traversant New Description=Embase PCB, 2.54mm,20 contacts, 2 rangées, traversant

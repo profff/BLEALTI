@@ -1,0 +1,5 @@
+Added Rule: Name=Schematic Polygon Connect Style_1
+Added Rule: Name=Schematic Polygon Connect Style_2
+Added Rule: Name=Schematic Polygon Connect Style_3
+Added Rule: Name=Schematic Polygon Connect Style_4
+Change Rule Scope 1 : Old Scope=InNet('NetC23_2') New Scope=InNet('NetA1_2')

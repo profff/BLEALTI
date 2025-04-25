@@ -1,0 +1,22 @@
+Change Component Description : Designator=IC3 Old Description=1.8V New Description=1.8V || SOT23 || 100mA || IN : 2.3V to 36V
+Change Component Description : Designator=IC2 Old Description=3V New Description=3V || SOT23 || 100mA || IN : 2.3V to 36V
+Added Component: Designator=T1(SOT-23-3)
+Add component (AddParameter): Name = "Fabricant"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefSupplier"; Value = "9526005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "BS170F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "BS170F"; VariantName = "[No Variations]"
+Added Component: Designator=T2(SOT-23-3)
+Add component (AddParameter): Name = "Fabricant"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefSupplier"; Value = "9526005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "BS170F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "BS170F"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC9_2 Pin=T1-1
+Added Pin To Net: NetName=NetR11_2 Pin=T1-2
+Added Pin To Net: NetName=VBAT Pin=T1-3
+Added Pin To Net: NetName=GDR Pin=T2-1
+Added Pin To Net: NetName=RSENS Pin=T2-2
+Added Pin To Net: NetName=NetC46_1 Pin=T2-3
+Added Member To Class: ClassName=Alim Member=Component T1 BS170F
+Added Member To Class: ClassName=epd Member=Component T2 BS170F

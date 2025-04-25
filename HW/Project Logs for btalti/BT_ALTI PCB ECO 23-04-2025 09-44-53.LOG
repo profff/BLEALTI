@@ -1,0 +1,35 @@
+Change Component Description : Designator=C10 Old Description=X7T 0402 20% 6.3V AEC-Q200 New Description=X7T 0402 10% 6.3V AEC-Q200
+Change Component Description : Designator=C17 Old Description=X7T 0402 20% 6.3V AEC-Q200 New Description=X7T 0402 10% 6.3V AEC-Q200
+Change Component Description : Designator=C18 Old Description=X7T 0402 20% 6.3V AEC-Q200 New Description=X7T 0402 10% 6.3V AEC-Q200
+Change component parameters: Designator = "A1" ("A1"); Footprint = "2450AT42E0100"; UniqueID = "\FVODOPON" ("\FVODOPON")
+Change component parameters (AddParameter): Name = "Fabricant"; Value = "PulseLarsen Antennas"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Référence"; Value = "2450AT42E0100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "50_OHMS"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "C0402"; UniqueID = "\XKRDGYWW" ("\XKRDGYWW")
+Change component parameters (AddParameter): Name = "Fabricant"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Référence"; Value = "KAM05CT70J475KH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17" ("C17"); Footprint = "C0402"; UniqueID = "\GAUHNGOH" ("\GAUHNGOH")
+Change component parameters (AddParameter): Name = "Fabricant"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Référence"; Value = "KAM05CT70J475KH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18" ("C18"); Footprint = "C0402"; UniqueID = "\FMWKDWAH" ("\FMWKDWAH")
+Change component parameters (AddParameter): Name = "Fabricant"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Référence"; Value = "KAM05CT70J475KH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C23" ("C23"); Footprint = "C0402 (NM)"; UniqueID = "\OSDCECWH" ("\OSDCECWH")
+Change component parameters (AddParameter): Name = "Value"; Value = "NM"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24" ("C24"); Footprint = "C0402 (NM)"; UniqueID = "\HQXPUZJQ" ("\HQXPUZJQ")
+Change component parameters (AddParameter): Name = "Value"; Value = "NM"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C47" ("C47"); Footprint = "C0402 (NM)"; UniqueID = "\ULXWWXNU" ("\ULXWWXNU")
+Change component parameters (AddParameter): Name = "Value"; Value = "NM"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F1" ("F1"); Footprint = "MLPF-WB-01E3"; UniqueID = "\PZHEPQCN" ("\PZHEPQCN")
+Change component parameters (AddParameter): Name = "Fabricant"; Value = "ST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Référence"; Value = "MLPF-WB55-01E3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "MLPF-WB55-01E3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC7" ("IC7"); Footprint = "TQFN-16"; UniqueID = "\GPGNINHP" ("\GPGNINHP")
+Change component parameters (AddParameter): Name = "Fabricant"; Value = "Maxim Integrated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Référence"; Value = "MAX97220E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "MAX97220E"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L3" ("L3"); Footprint = "S0402 (NM)"; UniqueID = "\UPCXAYLK" ("\UPCXAYLK")
+Change component parameters (AddParameter): Name = "Value"; Value = "NM"; VariantName = "[No Variations]"

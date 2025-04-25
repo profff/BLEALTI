@@ -1,0 +1,6 @@
+Added Component: Designator=BATT+(SMD 1.8x0.8)
+Added Component: Designator=BATT-(SMD 1.8x0.8)
+Added Pin To Net: NetName=VBAT Pin=BATT+-1
+Added Pin To Net: NetName=GND Pin=BATT--1
+Added Member To Class: ClassName=Alim Member=Component BATT+ Pad
+Added Member To Class: ClassName=Alim Member=Component BATT- Pad

@@ -1,0 +1,24 @@
+Change Component Description : Designator=T1 Old Description=N-MOS New Description=N-MOS || SOT23 60V 150mA
+Added Component: Designator=C34(C0201)
+Add component (AddParameter): Name = "Fabricant"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GRT033C71C104KE01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C35(C0201)
+Add component (AddParameter): Name = "Fabricant"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Référence"; Value = "GRT033C71C104KE01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=1.8V Pin=C34-1
+Added Pin To Net: NetName=GND Pin=C34-2
+Added Pin To Net: NetName=3V Pin=C35-1
+Added Pin To Net: NetName=GND Pin=C35-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
+Added Member To Class: ClassName=Micro Member=Component C34 100nF (0201) AEC-Q200
+Added Member To Class: ClassName=Micro Member=Component C35 100nF (0201) AEC-Q200
+Add Class Member: Failed to add class member : Component U1 BMP585

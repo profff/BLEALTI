@@ -1,0 +1,32 @@
+Replace Part A1 2450AT42E0100 in D:\dev\bt_alti\HW\Micro.SchDoc with 2450AT42E0100 from Antenna.SchLib
+Replace Part C10 4.7uF (0402) AEC-Q200 in D:\dev\bt_alti\HW\Micro.SchDoc with 4.7uF (0402) AEC-Q200 from Cap.SchLib
+Replace Part C11 100nF (0402) AEC-Q200 in D:\dev\bt_alti\HW\Micro.SchDoc with 100nF (0402) AEC-Q200 from Cap.SchLib
+Replace Part C12 1uF (0402) in D:\dev\bt_alti\HW\Micro.SchDoc with 1uF (0402) from Cap.SchLib
+Replace Part C13 100nF (0402) AEC-Q200 in D:\dev\bt_alti\HW\Micro.SchDoc with 100nF (0402) AEC-Q200 from Cap.SchLib
+Replace Part C14 10nF (0402) AEC-Q200 in D:\dev\bt_alti\HW\Micro.SchDoc with 10nF (0402) AEC-Q200 from Cap.SchLib
+Replace Part C15 100nF (0402) AEC-Q200 in D:\dev\bt_alti\HW\Micro.SchDoc with 100nF (0402) AEC-Q200 from Cap.SchLib
+Replace Part C16 100nF (0402) AEC-Q200 in D:\dev\bt_alti\HW\Micro.SchDoc with 100nF (0402) AEC-Q200 from Cap.SchLib
+Replace Part C17 4.7uF (0402) AEC-Q200 in D:\dev\bt_alti\HW\Micro.SchDoc with 4.7uF (0402) AEC-Q200 from Cap.SchLib
+Replace Part C18 4.7uF (0402) AEC-Q200 in D:\dev\bt_alti\HW\Micro.SchDoc with 4.7uF (0402) AEC-Q200 from Cap.SchLib
+Replace Part C19 100nF (0402) AEC-Q200 in D:\dev\bt_alti\HW\Micro.SchDoc with 100nF (0402) AEC-Q200 from Cap.SchLib
+Replace Part C20 100pF (0402) AEC-Q200 in D:\dev\bt_alti\HW\Micro.SchDoc with 100pF (0402) AEC-Q200 from Cap.SchLib
+Replace Part C21 100nF (0402) AEC-Q200 in D:\dev\bt_alti\HW\Micro.SchDoc with 100nF (0402) AEC-Q200 from Cap.SchLib
+Replace Part C22 100nF (0402) AEC-Q200 in D:\dev\bt_alti\HW\Micro.SchDoc with 100nF (0402) AEC-Q200 from Cap.SchLib
+Replace Part C23 NM (0402) in D:\dev\bt_alti\HW\Micro.SchDoc with NM (0402) from Cap.SchLib
+Replace Part C24 NM (0402) in D:\dev\bt_alti\HW\Micro.SchDoc with NM (0402) from Cap.SchLib
+Replace Part C25 NM (0402) in D:\dev\bt_alti\HW\Micro.SchDoc with NM (0402) from Cap.SchLib
+Replace Part C26 NM (0402) in D:\dev\bt_alti\HW\Micro.SchDoc with NM (0402) from Cap.SchLib
+Replace Part C27 5.1pF (0402) AEC-Q200 in D:\dev\bt_alti\HW\Micro.SchDoc with 5.1pF (0402) AEC-Q200 from Cap.SchLib
+Replace Part C28 5.1pF (0402) AEC-Q200 in D:\dev\bt_alti\HW\Micro.SchDoc with 5.1pF (0402) AEC-Q200 from Cap.SchLib
+Replace Part C47 NM (0402) in D:\dev\bt_alti\HW\Micro.SchDoc with NM (0402) from Cap.SchLib
+Replace Part CON2 54548-0871 in D:\dev\bt_alti\HW\Micro.SchDoc with 54548-0871 from ConnecteurAutre.SchLib
+Replace Part F1 MLPF-WB55-01E3 in D:\dev\bt_alti\HW\Micro.SchDoc with MLPF-WB55-01E3 from Antenna.SchLib
+Replace Part IC5 USBLC6-2 in D:\dev\bt_alti\HW\Micro.SchDoc with USBLC6-2 from USB.SchLib
+Replace Part IC6 STM32WB55CGU in D:\dev\bt_alti\HW\Micro.SchDoc with STM32WB55CGU from Transceiver.SchLib
+Replace Part L1 10uH (2.5x2) AEC-Q200 in D:\dev\bt_alti\HW\Micro.SchDoc with 10uH (2.5x2) AEC-Q200 from Inductance.SchLib
+Replace Part L3 NM (0402) in D:\dev\bt_alti\HW\Micro.SchDoc with NM (0402) from Inductance.SchLib
+Replace Part Q1 ECS-320-8-47Q-CES-TR in D:\dev\bt_alti\HW\Micro.SchDoc with ECS-320-8-47Q-CES-TR from Oscillateur.SchLib
+Replace Part Q2 ECS-.327-12.5-34QCS-TR in D:\dev\bt_alti\HW\Micro.SchDoc with ECS-.327-12.5-34QCS-TR from Oscillateur.SchLib
+Replace Part R13 NM (0402) in D:\dev\bt_alti\HW\Micro.SchDoc with NM (0402) from Res.SchLib
+Replace Part R16 10k (0402) AEC-Q200 in D:\dev\bt_alti\HW\Micro.SchDoc with 10k (0402) AEC-Q200 from Res.SchLib
+Replace Part S1 Ferrite (0402) 1k AEC-Q200 in D:\dev\bt_alti\HW\Micro.SchDoc with Ferrite (0402) 1k AEC-Q200 from LED_TH_VAR_FER.SchLib
